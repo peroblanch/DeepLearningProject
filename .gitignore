@@ -1,0 +1,7 @@
+.DS_Store
+
+distilbert_expC_final/
+distilbert_sentiment140/
+distilbert_sentiment140_final/
+
+*.csv
